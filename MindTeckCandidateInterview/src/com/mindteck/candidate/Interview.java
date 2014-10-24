@@ -126,6 +126,8 @@ public class Interview {
         System.out.println(a.equals(b));
 		interview.displayNameAndAge();
 		
+		System.out.println("Test 1");
+		
 	}
 
 }
